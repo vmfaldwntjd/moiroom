@@ -4,29 +4,6 @@ moiroomserver/build/
 !moiroomserver/gradle/wrapper/gradle-wrapper.jar
 !moiroomserver/**/src/main/**/build/
 !moiroomserver/**/src/test/**/build/
-/image
-!image/auth.jpg
-!image/auth2.jpg
-!image/auth3.jpg
-!image/auth4.jpg
-!image/auth4.jpg
-!image/auth5.jpg
-!image/auth6.jpg
-!image/chat.jpg
-!image/chatlist.jpg
-!image/erd.png
-!image/login.jpg
-!image/login2.jpg
-!image/mainpage.jpeg
-!image/match1.jpg
-!image/match2.jpg
-!image/match3.jpg
-!image/matching.jpg
-!image/moiroomERD.png
-!image/proflie_edit.jpg
-!image/profile_edit2.jpg
-!image/register.jpg
-!image/system_architecture.png
 
 ### STS ###
 .apt_generated
