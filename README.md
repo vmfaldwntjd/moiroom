@@ -75,40 +75,40 @@
 
 ### 💻 소셜 로그인
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/7c982d66-3a24-48f6-96db-dea4256ee929" width="200" style="margin-right: 5px;">
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/21abffa9-4815-4e95-89b0-7576469368b0" width="200" style="margin-right: 5px;">
+  <img src="image/login.jpg" width="200" style="margin-right: 5px;">
+  <img src="image/login2.jpg" width="200" style="margin-right: 5px;">
 </div>
 
 ### 🧑🏻‍💼 기본 정보 및 자기 소개 등록
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/8c9e5904-e623-444c-825d-a7bafe3aa584" width="200" style="margin-right: 5px;">
+  <img src="image/register.jpg" width="200" style="margin-right: 5px;">
 
 ### 🧑🏻‍ 사용자 권한 허용
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/bf30686d-af50-4b82-875f-9f765062a867" width="200" style="margin-right: 5px;">
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/6011d9ad-c66e-4b05-92da-ace4d07a48fa" width="200" style="margin-right: 5px;">
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/829e383e-84da-4810-afd4-50b713ba1be9" width="200" style="margin-right: 5px;">
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/5cd1bfb5-9cd8-4d68-8239-063d387c9261" width="200" style="margin-right: 5px;">
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/23707216-687d-4ea8-b503-c622d6d64a48" width="200" style="margin-right: 5px;">
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/94a04b6e-49c3-40b8-99df-1f3f2827370b" width="200" style="margin-right: 5px;">
+  <img src="image/auth6.jpg" width="200" style="margin-right: 5px;">
+  <img src="image/auth5.jpg" width="200" style="margin-right: 5px;">
+  <img src="image/auth.jpg" width="200" style="margin-right: 5px;">
+  <img src="image/auth3.jpg" width="200" style="margin-right: 5px;">
+  <img src="image/auth2.jpg" width="200" style="margin-right: 5px;">
+  <img src="image/auth4.jpg" width="200" style="margin-right: 5px;">
 </div>
 
 ### 🧑🏻 성향 분석 및 룸메이트 추천
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/004bb27d-19e9-4e6d-bfa5-07c30576227c" width="200" style="margin-right: 5px;">
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/fb3d63b1-7304-42b1-a067-5b88be8b2971" width="200" style="margin-right: 5px;">
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/ddc0ca40-4486-466d-b7bf-35ab5e6cf2f7" width="200" style="margin-right: 5px;">
+  <img src="image/match1.jpg" width="200" style="margin-right: 5px;">
+  <img src="image/match2.jpg" width="200" style="margin-right: 5px;">
+  <img src="image/match3.jpg" width="200" style="margin-right: 5px;">
 </div>
 
 ### 💬 채팅
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/07065800-10ec-4dca-8c33-df6f7b268fa5" width="200" style="margin-right: 5px;">
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/efaf246c-bfaf-4ac6-aa34-04a1b326dacc" width="200" style="margin-right: 5px;">
+  <img src="image/chatlist.jpg" width="200" style="margin-right: 5px;">
+  <img src="image/chat.jpg" width="200" style="margin-right: 5px;">
 </div>
 
 ### 💁 정보 수정 및 기타 기능
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/55693983-897d-4b30-93ac-8471f7ea6a96" width="200" style="margin-right: 5px;">
-  <img src="https://github.com/vmfaldwntjd/moiroom/assets/75198221/62b9e00b-e54a-4d13-a2ab-05b9b203e70c" width="200" style="margin-right: 5px;">
+  <img src="image/proflie_edit.jpg" width="200" style="margin-right: 5px;">
+  <img src="image/profile_edit2.jpg" width="200" style="margin-right: 5px;">
 </div>
 
 <br/>
@@ -116,11 +116,11 @@
 
 # 🔍3. 산출물
 ## 4-1. ERD
-![TEAM_MM_ERD](https://github.com/vmfaldwntjd/moiroom/assets/75198221/ef44e4c5-f1b5-4c16-afe2-744c22c07088)
+![TEAM_MM_ERD](image/erd.png)
 ## 4-2. 시스템 아키텍처
-![시스템 아키텍처](https://github.com/vmfaldwntjd/moiroom/assets/75198221/5a74d45c-9c55-4c6e-b48c-2337ea1e9f90)
+![시스템 아키텍처](image/system_architecture.png)
 ## 4-3. 결과 영상
-[영상 링크](https://youtu.be/1s90BR-ahNY)  
+[![모이룸 화면 영상](image/mainpage.jpeg)](https://youtu.be/1s90BR-ahNY)
 <br/>
 
 # 🔍4. 구현한 기능

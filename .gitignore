@@ -4,6 +4,7 @@ moiroomserver/build/
 !moiroomserver/gradle/wrapper/gradle-wrapper.jar
 !moiroomserver/**/src/main/**/build/
 !moiroomserver/**/src/test/**/build/
+/image
 
 ### STS ###
 .apt_generated
